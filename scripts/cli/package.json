@@ -1,0 +1,12 @@
+{
+  "name": "@launchmate/share",
+  "version": "0.6.0",
+  "description": "Share local web apps and APIs through temporary public links.",
+  "type": "module",
+  "engines": { "node": ">=18.17" },
+  "bin": { "launchmate": "./bin/launchmate.js" },
+  "scripts": { "check": "node --check bin/launchmate.js" },
+  "files": ["bin", "src", "LICENSE"],
+  "license": "MIT",
+  "private": true
+}

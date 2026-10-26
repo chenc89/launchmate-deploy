@@ -1,0 +1,3 @@
+interface:
+  display_name: "Launchmate 本地分享"
+  short_description: "为本地网页、API 和数据库应用生成临时公网链接，支持密码保护与安全停止"

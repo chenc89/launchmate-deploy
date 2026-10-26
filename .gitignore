@@ -1,0 +1,10 @@
+node_modules/
+dist/
+work/
+.env
+.env.*
+.launchmate/
+*.zip
+*.tgz
+*.log
+.DS_Store

@@ -1,0 +1,14 @@
+{
+  "name": "launchmate-deploy-skill",
+  "version": "0.6.0",
+  "description": "Share local web apps and APIs through temporary public links.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=18.17" },
+  "scripts": {
+    "check": "node --check scripts/cli/bin/launchmate.js",
+    "test": "node --test",
+    "package:skill": "node scripts/package.mjs"
+  }
+}
